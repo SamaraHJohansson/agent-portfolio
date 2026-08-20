@@ -1,0 +1,23 @@
+# Search Visibility Agent — Dependencies
+
+# Core HTTP and crawling
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+urllib3==2.1.0
+
+# JavaScript-rendered page support
+playwright==1.40.0
+
+# AI and LLM
+openai==1.6.1
+
+# Environment variables
+python-dotenv==1.0.0
+
+# HTML report generation
+jinja2==3.1.2
+
+# Utilities
+tqdm==4.66.1
+colorama==0.4.6
